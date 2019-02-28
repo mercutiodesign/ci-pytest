@@ -1,5 +1,5 @@
 def add(a, b):
-    return a - b
+    return a + b
 
 def main():
     print('2 + 6 =', add(2, 6))
